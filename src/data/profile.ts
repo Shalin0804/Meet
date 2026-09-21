@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Meet Vaishnani',
   role: 'Business Development Executive',
-  company: 'Nateco IT Solutions Pvt. Ltd.',
+  company: 'Codefloor IT Tech LLP',
   phone: '+91 95106 70411',
   email: 'vaishnanimeet2971@gmail.com',
 }
