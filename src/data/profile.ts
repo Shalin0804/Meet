@@ -49,9 +49,24 @@ export type ExperienceItem = {
 
 export const experience: ExperienceItem[] = [
   {
+  role: 'Business Development Executive',
+  org: 'Codefloor IT Tech LLP',
+  period: '2025 — Current',
+  points: [
+    'Generating and qualifying leads for web, mobile, and custom IT development projects',
+    'Understanding client requirements and mapping them to suitable technical solutions',
+    'Preparing customized project proposals, quotations, and business presentations',
+    'Managing client communication from initial inquiry through negotiation and project confirmation',
+    'Coordinating with technical and project teams to ensure requirements are clearly communicated and understood',
+    'Following up with prospects consistently to improve lead conversion and maintain sales pipelines',
+    'Building long-term relationships with clients and identifying opportunities for repeat business',
+    'Conducting market research to identify new business opportunities and potential client segments',
+  ],
+  },
+  {
     role: 'Business Development Executive',
     org: 'Nateco IT Solutions Pvt. Ltd.',
-    period: '2024 — Current',
+    period: '2024 — 2025',
     points: [
       'Identifying new business opportunities and managing client relationships',
       'Understanding client requirements and presenting tailored IT solutions',
